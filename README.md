@@ -12,6 +12,6 @@ Random Password Generator:
 
 ## Screenshot
 
-![Manorath_Naphaphone_Responsive_Portfolio](https://user-images.githubusercontent.com/63210444/104140899-ae3efd80-5368-11eb-9ef2-f82e0127f0e8.mp4)
+![Manorath_Naphaphone_Responsive_Portfolio](https://gifs.com/gif/password-generator-p84RrQ)
 
 
