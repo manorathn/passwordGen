@@ -20,11 +20,11 @@ confirmLength = prompt('How many characters would you like your password to cont
   } 
 
   else{
+    alert('Your password will contain ' + (confirmLength) + ' characters!')
     var confirmNum = confirm("Will this contain numbers?");
     var confirmSpecialChar = confirm("Will this contain special characters?");
     var confirmUppercase = confirm("Will this contain Uppercase letters?");
     var confirmLowercase = confirm("Will this contain Lowercase letters?");
-    alert('Your password will contain ' + (confirmLength) + ' characters!')
   }
 
   var selection;
