@@ -1,6 +1,6 @@
 # Password Generator
 
-## Link: 
+## Link: https://manorathn.github.io/passwordGen/
 
 Random Password Generator:
 
